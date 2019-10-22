@@ -10,6 +10,13 @@ To acquire the NTU Palmprints from the Internet (NTU-PI-v1) database (which was 
 
 
 ### Image examples
+![alt text](https://github.com/matkowski-voy/Palmprint-Recognition-in-the-Wild/blob/master/Fig4a.png)\
+Example images from NTU-PI-v1. Images in the same column are from the same palm. Images are resized to the same size. 
+![alt text](https://github.com/matkowski-voy/Palmprint-Recognition-in-the-Wild/blob/master/Fig5.png)\
+Examples of original images downloaded from the Internet. Hands are higlited in red boxes in the original images.
+
+
+
 
 ## Code
 Comming soon.
