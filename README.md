@@ -17,9 +17,11 @@ Examples of original images downloaded from the Internet. Hands are higlited in 
 
 
 
-
 ## Code
-Comming soon.
+- download matconvnet [here](http://www.vlfeat.org/matconvnet/download/matconvnet-1.0-beta25.tar.gz) unpack and put into maltab folder
+- download pretrained alignemnt network (ROI-LAnet) [here](https://www.dropbox.com/s/ktoylrk90yyeo0b/AlignNet-epoch-25.mat?dl=0) and put into preTrainedNetworks folder
+- download pretrained end to end network (EE-PRnet) [here](https://www.dropbox.com/s/8nt8nlo1mburzn9/EE_PRnet-epoch-60.mat?dl=0) and put into preTrainedNetworks folder
+- see and run demo codes in ROI-LAnet and EE-PRnet folders
 
 ## Questions
 If you have any questions about the paper please email me on wojciech.matkowski@ntu.edu.sg, matk0001@e.ntu.edu.sg or maskotky@gmail.com
