@@ -4,8 +4,8 @@ close all; clc;
 
 run masksetup
 
-imgType = 'imgOrg';
-dbName = 'NTU-test';
+imgType = 'img';
+dbName = 'NTU-PI-demo';
 dataListName = 'DataNclass.mat';
 expNum = 'exp1';
 
