@@ -2,7 +2,7 @@
 ## Paper
 Wojciech Michal Matkowski, Tingting Chai and Adams Wai Kin Kong. “Palmprint Recognition in Uncontrolled and Uncooperative Environment.” IEEE Transactions on Information Forensics and Security, October 2019, DOI: 10.1109/TIFS.2019.2945183.
 
-Preprint can be found now on arXiv [here](https://arxiv.org/ftp/arxiv/papers/1911/1911.12514.pdf)
+Preprint can be found now on arXiv [here](https://arxiv.org/ftp/arxiv/papers/1911/1911.12514.pdf)\
 Paper (Early Access) can be found on IEEE Xplore [here](https://ieeexplore.ieee.org/document/8854829)
 
 ## Database
