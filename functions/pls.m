@@ -20,9 +20,9 @@ function B = pls(X,Y,k,gpu)
 		W(:,i) = X'*Y/(Y'*Y);
 		W(:,i) = W(:,i)/norm(W);
  		T(:,i) = X*W(:,i);
-        T(:,i) = X*W(:,i)/(W(:,i)'*W(:,i));
+        
 		U(:,i) = Y;
-        P = X'*T(:,i)/(T(:,i)'*T(:,i));
+        	P = X'*T(:,i)/(T(:,i)'*T(:,i));
 		
 		X = X - T(:,i)*P';	
 		Y = Y - T(:,i)*T(:,i)'*Y/(T(:,i)'*T(:,i));	
