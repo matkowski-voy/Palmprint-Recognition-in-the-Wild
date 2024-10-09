@@ -26,3 +26,5 @@ Examples of original images downloaded from the Internet. Hands are higlited in 
 
 ## Questions
 If you have any questions about the paper please email me on maskotky@gmail.com
+It is realtively easy to implement it in pytorch. On some special request I would be also able to share some pytroch codes.
+For significant improvements and pytorch impelmentation see [here](https://github.com/matkowski-voy/Improving-Hand-Palm-Recognition-in-the-Wild)
