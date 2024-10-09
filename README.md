@@ -7,7 +7,7 @@ Paper can be found on IEEE Xplore [here](https://ieeexplore.ieee.org/document/88
 
 ## Database
 ### How to acquire the dataset?
-To acquire the NTU Palmprints from the Internet (NTU-PI-v1) database (which was used in the paper), download and fill in the "Data Release Agreement.pdf" file. Print the agreement and sign on page 2. Scan the signed copy and send back to matk0001@e.ntu.edu.sg, xpxu@ntu.edu.sg or adamskong@ntu.edu.sg with title "Application for NTU Palmprints from the Internet database (NTU-PI-v1)". A download link to the database will be send to you once after we receive the signed agreement file.
+To acquire the NTU Palmprints from the Internet (NTU-PI-v1) database (which was used in the paper), download and fill in the "Data Release Agreement.pdf" file. Print the agreement and sign on page 2. Scan the signed copy and send back to maskotky@gmail.com, and  adamskong@ntu.edu.sg with title "Application for NTU Palmprints from the Internet database (NTU-PI-v1)". A download link to the database will be send to you once after we receive the signed agreement file.
 
 
 ### Image examples
@@ -25,4 +25,4 @@ Examples of original images downloaded from the Internet. Hands are higlited in 
 - see and run demo codes in ROI-LAnet and EE-PRnet folders
 
 ## Questions
-If you have any questions about the paper please email me on wojciech.matkowski@ntu.edu.sg, matk0001@e.ntu.edu.sg or maskotky@gmail.com
+If you have any questions about the paper please email me on maskotky@gmail.com
